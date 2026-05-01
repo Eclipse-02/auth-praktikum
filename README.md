@@ -28,25 +28,25 @@ Aplikasi React Native hasli dari percobaan praktikum yaitu dengan menggunakan au
 ### Login Screen
 
 <p align="center">
-  <img src="" alt="login" width="250" />
+  <img src="https://github.com/user-attachments/assets/82bade11-dd7b-4c42-980c-1c53ba6d0af2" alt="login" width="250" />
 </p>
 
 ### Register Screen
 
 <p align="center">
-  <img src="" alt="register" width="250" />
+  <img src="https://github.com/user-attachments/assets/90e776fa-b7c2-4151-a19f-390847205b78" alt="register" width="250" />
 </p>
 
 ### Forgot Password Screen
 
 <p align="center">
-  <img src="" alt="forgot" width="250" />
+  <img src="https://github.com/user-attachments/assets/c6879ce5-eb65-4523-b6cf-c47f47b6ead3" alt="forgot" width="250" />
 </p>
 
 ### Home Screen
 
 <p align="center">
-  <img src="" alt="home" width="250" />
+  <img src="https://github.com/user-attachments/assets/614f5313-dbe1-49d3-97ec-2ad9385b846b" alt="home" width="250" />
 </p>
 
 ## Video demo
